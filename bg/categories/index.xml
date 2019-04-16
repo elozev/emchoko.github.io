@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marketiz Me – Дигитален маркетинг и реклама</title>
-    <link>https://marketizme.github.io/bg/categories/</link>
+    <link>https://emchoko.github.io/bg/categories/</link>
     <description>Recent content in Categories on Marketiz Me – Дигитален маркетинг и реклама</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
     
-	<atom:link href="https://marketizme.github.io/bg/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emchoko.github.io/bg/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
