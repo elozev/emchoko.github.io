@@ -183,7 +183,7 @@ hugo new site navigator-hugo  and then go to the themes folder inside of navigat
     </item>
     
     <item>
-      <title>A propos de nous ...</title>
+      <title>За нас</title>
       <link>https://emchoko.github.io/bg/about/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
       

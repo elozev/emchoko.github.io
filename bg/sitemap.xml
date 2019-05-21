@@ -182,11 +182,6 @@
   </url>
   
   <url>
-    <loc>https://emchoko.github.io/bg/about/_index.fr/</loc>
-    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://emchoko.github.io/bg/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
     <priority>0</priority>
@@ -200,6 +195,11 @@
                 hreflang="bg"
                 href="https://emchoko.github.io/bg/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/bg/about/_index.fr/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url>
   
   <url>
