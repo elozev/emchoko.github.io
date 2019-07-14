@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example site multi-language</title>
+    <title>Marketiz Me - online marketing and website development.</title>
     <link>https://emchoko.github.io/en/</link>
-    <description>Recent content on Example site multi-language</description>
+    <description>Recent content on Marketiz Me - online marketing and website development.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate>
@@ -27,6 +27,69 @@
       
       <guid>https://emchoko.github.io/en/blog/are-you-doing-the-right-way/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra.</description>
+    </item>
+    
+    <item>
+      <title>Ad Campaigns</title>
+      <link>https://emchoko.github.io/en/service/ad-campaign/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/ad-campaign/</guid>
+      <description>Advertising on Facebook, Google and Instagram is a powerful tool for selling on the internet. It presents your services and products in the most appropriate way to cause your customers&amp;rsquo; interest in what you offer. Regardless of the sphere in which each business develops, it needs advertising and a good strategy to promote and reach more customers and consumers. Everyday around us, we see hundreds of online ads that aim to engage the right audience for the good or service, but how many of them are really successful, and how does a successful ad campaign work?</description>
+    </item>
+    
+    <item>
+      <title>Creative Design</title>
+      <link>https://emchoko.github.io/en/service/design/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/design/</guid>
+      <description>The team of marketiz Me consists of ambitious and experienced web design professionals motivated to create various, distinctive and memorable design projects, distinctive design, company logo, banner advertising for your site, interactive clips and animations to help your business to show up in his best light, to stand out among others in the industry and to give a new direction in his development.
+With our rich experience, professional skills and good creativity, you will always be different.</description>
+    </item>
+    
+    <item>
+      <title>Marketing Consultations</title>
+      <link>https://emchoko.github.io/en/service/marketing-consult/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/marketing-consult/</guid>
+      <description>Marketiz Me is developing a marketing strategy to position a product or service on the market.
+The marketing strategy for positioning the product / service aims to create a unique product proposal that will dominate the target group&amp;rsquo;s mind. We create SWOT analysis and identify the strengths and favors of your brand as well as the potential for future development and the dangers of your competitors in the market environment.</description>
+    </item>
+    
+    <item>
+      <title>Search Engine Marketing</title>
+      <link>https://emchoko.github.io/en/service/sem/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/sem/</guid>
+      <description>Why do we need search engine marketing?
+Nowadays every business has a website and almost any of them uses Google Ads.
+Sites that go back to the rankings can remain &amp;ldquo;invisible&amp;rdquo; as nearly 80% of all users are browsing only the first results page. To be in the forefront, your brand needs an effective optimization in search engine machine - SEO (Search Engine Optimization) and PPC (Pay Per Click) advertising.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Marketing – Facebook &amp; Instagram</title>
+      <link>https://emchoko.github.io/en/service/social/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/social/</guid>
+      <description>marketiz Me will show you how social media can work for you.
+By absorbing the strength of marketing foundations in social networks, marketiz Me&amp;rsquo;s team will help you increase your online presence, your audience, the users of your products or services multiple times.
+We offer professional services related to social network marketing, Facebook page support, Instagram account, and Google Ads ad.
+We give you the opportunity to keep in touch with your customers online by creating and publishing interesting, varied and targeted content on your page or profile that is fully tailored to and consistent with your business, brand or project according to your personal preferences and requirements.</description>
+    </item>
+    
+    <item>
+      <title>Website Development</title>
+      <link>https://emchoko.github.io/en/service/webdesign/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://emchoko.github.io/en/service/webdesign/</guid>
+      <description>Creating and maintaining a website is a key element in building your online reputation and occupying your company&amp;rsquo;s leading market positions. The team of marketiz Me has a solid professional experience in the development of websites and web pages.
+We will create a unique and responsive design tailored to your vision and functionality requirements. Design suitable for any device - computers, laptops, mobile devices, tablets.
+Our creative programmers, marketers, search engine optimizers (SEO) and web designers do not just create websites, they create a virtual art that will highlight your business from others.</description>
     </item>
     
   </channel>

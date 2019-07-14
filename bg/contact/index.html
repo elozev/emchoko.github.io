@@ -41,7 +41,17 @@
 
 <link rel="stylesheet" href="https://emchoko.github.io/css/style.min.css" integrity="" media="screen">
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134294022-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134294022-1');
+</script>
   
+
 </head>
 <body id="body">
         <!-- Start Preloader -->
@@ -64,7 +74,7 @@
 <!-- End Preloader --><!-- Fixed Navigation -->
 
 
-    <section class="header navigation top-bar animated-header">
+    <section class="header navigation">
 
     <div class="container">
         <div class="row">
@@ -118,6 +128,10 @@
                             </li>
                             
                             <li class="nav-item">
+                                <a class="nav-link" href="https://emchoko.github.io/bg/portfolio">Портфолио</a>
+                            </li>
+                            
+                            <li class="nav-item">
                                 <a class="nav-link" href="https://emchoko.github.io/bg/about">За Нас</a>
                             </li>
                             
@@ -132,11 +146,11 @@
         </div>
     </div>
 </section>
-<div id="content">
+    <div id="content">
 
 <!-- Page Title Section Start -->
-<section class="single-page-header mt-5">
-    <div class="container mt-5">
+<section class="single-page-header">
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
                 
@@ -170,21 +184,21 @@
             </div>
             <!-- Contact Form -->
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" method="post" action="sendmail.php" role="form">
+                <form id="contact-form" method="post" action="https://formspree.io/office@marketizme.com" role="form">
                     <div class="form-group">
-                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                        <input type="text" placeholder="Имена" class="form-control" name="name" id="name">
                     </div>
 
                     <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+                        <input type="email" placeholder="Email" class="form-control" name="email" id="email">
                     </div>
 
                     <div class="form-group">
-                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+                        <input type="text" placeholder="Тема" class="form-control" name="subject" id="subject">
                     </div>
 
                     <div class="form-group">
-                        <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
+                        <textarea rows="6" placeholder="Съобщение" class="form-control" name="message" id="message"></textarea>
                     </div>
 
                     <div id="mail-success" class="success">
@@ -196,7 +210,7 @@
                     </div>
 
                     <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
+                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Изпрати">
                     </div>
                 </form>
             </div>
@@ -205,6 +219,7 @@
             <div class="col-12 col-md-4">
                 <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
+                    
                     <h4>Адрес</h4>
                     <p>ул. Димитър Хаджикоцев 12 <br> София, България</p>
                 </div>
@@ -212,7 +227,7 @@
             <div class="col-12 col-md-4">
                 <div class="phone-block contact-meta-block">
                     <i class="tf-ion-ios-telephone"></i>
-                    <h4>Позвънете Ни</h4>
+                    <h4>Позвънете</h4>
                     <p>
                         
                             <a href="tel: &#43;359%20888%20252%20679"> 
@@ -225,7 +240,7 @@
             <div class="col-12 col-md-4">
                 <div class="social-icons-block contact-meta-block">
                     <i class="tf-ion-ios-contact"></i>
-                    <h4>В Социалните Мрежи</h4>
+                    <h4>В социалните мрежи</h4>
                     <ul class="list-inline social-icon">
                         
                         <li class="list-inline-item">
@@ -265,7 +280,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 col-md-4 col-lg-4">
-                    <h3>За Нас</h3>
+                    <h3>За нас</h3>
                     <p>Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм.</p>
                 </div>
                 <div class="col-sm-4 col-md-4 col-lg-4">
@@ -286,6 +301,14 @@
                         
                         <li>
                             <a href="https://emchoko.github.io/bg/service/ad-campaign">Рекламни кампании</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://emchoko.github.io/bg/service/sem">Маркетинг в търсещите машини</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://emchoko.github.io/bg/service/marketing-consult">Маркетинг консултации</a>
                         </li>
                         
                     </ul>

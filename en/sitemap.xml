@@ -54,6 +54,111 @@
   </url>
   
   <url>
+    <loc>https://emchoko.github.io/en/service/ad-campaign/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/ad-campaign/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/ad-campaign/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/design/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/design/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/marketing-consult/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/marketing-consult/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/marketing-consult/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/sem/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/sem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/sem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/social/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/social/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://emchoko.github.io/en/service/webdesign/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://emchoko.github.io/bg/service/webdesign/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emchoko.github.io/en/service/webdesign/"
+                />
+  </url>
+  
+  <url>
     <loc>https://emchoko.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -93,20 +198,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://emchoko.github.io/en/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://emchoko.github.io/en/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://emchoko.github.io/bg/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://emchoko.github.io/en/service/"
                 />
   </url>
   
