@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Marketiz Me – Дигитален маркетинг и реклама</title>
-    <link>http://www.marketizme.com/bg/about/</link>
+    <link>https://emchoko.github.io/bg/about/</link>
     <description>Recent content in Abouts on Marketiz Me – Дигитален маркетинг и реклама</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
-	<atom:link href="http://www.marketizme.com/bg/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emchoko.github.io/bg/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>За нас</title>
-      <link>http://www.marketizme.com/bg/about/_index.fr/</link>
+      <link>https://emchoko.github.io/bg/about/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
       
-      <guid>http://www.marketizme.com/bg/about/_index.fr/</guid>
+      <guid>https://emchoko.github.io/bg/about/_index.fr/</guid>
       <description></description>
     </item>
     
