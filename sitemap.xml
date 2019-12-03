@@ -3,6 +3,7 @@
 <url> <loc>https://www.netsurf.bg/pages/promo/green-christmas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/checkout/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/documenti/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.netsurf.bg/fondaciq-netsurf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/konfigurator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/magazini/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
