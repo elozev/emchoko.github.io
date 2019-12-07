@@ -2,6 +2,7 @@
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
   "static/amc_logo.png": "static/amc_logo-b034dbbc971a7ec678c12958421cb638.png",
+  "static/animated-phone.gif": "static/animated-phone-0e948b33cac455cbade63c00dfc1308c.gif",
   "static/card-badge.svg": "static/card-badge-f2bae14b1df7d94725e2d7624addf0cc.svg",
   "static/card-clock.svg": "static/card-clock-f64ef899c87f6e0510d13099d3b18c9f.svg",
   "static/card-search-heart.svg": "static/card-search-heart-6d3f0f597ab612c34edb2d7856d1c07e.svg",

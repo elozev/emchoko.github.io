@@ -7,9 +7,11 @@
 <url> <loc>https://www.netsurf.bg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/konfigurator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/magazini/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.netsurf.bg/netsurf-play/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/obshti-uslovia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/pokritie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/promocii/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/za-biznesa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.netsurf.bg/za-doma/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.netsurf.bg/zashto-netsurf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
