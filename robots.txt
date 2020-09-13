@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://netsurf.bg/sitemap.xml
-Host: https://netsurf.bg
